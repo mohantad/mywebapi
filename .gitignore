@@ -1,0 +1,7 @@
+.suo
+._.suo
+*.user
+._.gitignore
+.vs
+bin/
+obj/
